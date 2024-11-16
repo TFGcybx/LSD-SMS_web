@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "axios": "^1.7.7",
-    "vant": "^3.6.12",
+    "element-plus": "^2.8.8",
     "vue": "^3.5.12",
     "vue-router": "^4.0.13",
     "vuex": "^4.0.2"
